@@ -1,0 +1,4 @@
+# University thesis template and LaTeX class files, not written by me.
+templateTFG-GM2016/** linguist-vendored
+*.cls linguist-vendored
+*.sty linguist-vendored
