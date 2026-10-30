@@ -51,3 +51,8 @@ pdflatex TFGEudaldRomo && bibtex TFGEudaldRomo && pdflatex TFGEudaldRomo && pdfl
 
 **Keywords:** robotic manipulation, planar pushing, model predictive control, hybrid systems,
 MIQP, underactuation.
+
+## License
+
+MIT, see [LICENSE](LICENSE). `templateTFG-GM2016/` is the university thesis template and is not
+covered; it belongs to its original authors.
